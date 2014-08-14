@@ -1,2 +1,2 @@
-Source code for Blog (itsanoop.in)
+Source code for my blog (itsanoop.in)
 ======
